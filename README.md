@@ -2,8 +2,8 @@
 a refactored official example based on systemjs module-loader with typescript transform on the fly
 
 # Notice
-You can find typing files of **aurelia-framework** etc.all on `tsd`. So I left the *.ts files with no typed.
-This will cause **type-check** errors on you IDE. To fix that, just find the *.d.ts files under your `jspm_packages` dir.
+You can find typing files of __urelia-framework__ etc.all on `tsd`. So I left the \*.ts files with no typed.
+This will cause __type-check__ errors on you IDE. To fix that, just find the *.d.ts files under your `jspm_packages` dir.
 
 # How to use
 1. clone this repo
