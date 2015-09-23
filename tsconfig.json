@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "umd",
+        "experimentalDecorators": true,
+        "target": "ES5",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "noLib": false
+    },
+    "exclude": [
+        "node_modules",
+        ".vscode",
+        "bulid",
+        "semantic",
+        "client/assets",
+        "client/jspm_packages"
+    ]
+}
