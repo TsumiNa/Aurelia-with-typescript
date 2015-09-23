@@ -6,17 +6,17 @@ You can find typing files of __urelia-framework__ etc.all on `tsd`. So I left th
 This will cause __type-check__ errors on you IDE. To fix that, just find the *.d.ts files under your `jspm_packages` dir.
 
 # How to use
-1. clone this repo
+####clone this repo
 ```bash
 git clone git@github.com:TsumiNa/Aurelia-with-typescript.git myAurelia
 ```
-2. install dependencies
+####install dependencies
 ```bash
 cd myAurelia
 npm i
 jspm install
 ```
-3. try it!
+####try it!
 ```bash
 gulp watch
 ```
