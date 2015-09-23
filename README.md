@@ -20,7 +20,7 @@ jspm install
 ```bash
 gulp watch
 ```
-after that, open your browser navigate to `http://192.168.11.3:9000`. That's it!
+after that, open your browser navigate to the address showed by console. That's it!
 
 # On the fly
 When you changed something in the source files, `browserSync.reload` will be called to reload the page immediately. systemjs's module loader will load **`*.ts`** files into the browers and transform to es5 code on the fly.
